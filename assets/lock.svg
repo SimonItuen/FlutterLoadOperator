@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52.604" height="61.863" viewBox="0 0 52.604 61.863">
+  <g id="Component_2_33" data-name="Component 2 – 33" transform="translate(2 2)">
+    <g id="Icon_feather-lock" data-name="Icon feather-lock">
+      <path id="Path_1662" data-name="Path 1662" d="M9.9,16.5H47.7a5.515,5.515,0,0,1,5.4,5.622V41.8a5.515,5.515,0,0,1-5.4,5.622H9.9A5.515,5.515,0,0,1,4.5,41.8V22.122A5.515,5.515,0,0,1,9.9,16.5Z" transform="translate(-4.5 10.44)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_1663" data-name="Path 1663" d="M10.5,28.3V17.056C10.5,9.293,16.346,3,23.558,3S36.616,9.293,36.616,17.056V28.3" transform="translate(0.744 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <path id="Path_1664" data-name="Path 1664" d="M3.143,0C4.879,0,6.286,2.075,6.286,4.636S4.879,13.37,3.143,13.37,0,7.2,0,4.636,1.407,0,3.143,0Z" transform="translate(21.194 36.506)" fill="#fff"/>
+  </g>
+</svg>
